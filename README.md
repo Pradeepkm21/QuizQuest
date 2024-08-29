@@ -16,6 +16,4 @@
     - Attempt quizzes in an engaging environment.
     - Review completed quizzes along with their scores.
 
----
 
-**inQUIZitive** offers a streamlined and interactive experience for both administrators and users, fostering a dynamic and educational environment.
