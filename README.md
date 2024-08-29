@@ -1,10 +1,21 @@
 # inQUIZitive
 
-##Developed a dynamic quiz application with secure user authentication for login and logout.
+### Dynamic Quiz Application
 
-##Implemented comprehensive quiz management system allowing administrators to create various quiz types and distribute to users.
+- **Secure Authentication:**
+  - Implemented robust user authentication for secure login and logout.
 
-##Created group management functionality for admins to establish groups and assign quizzes efficiently.
+- **Comprehensive Quiz Management:**
+  - Developed a powerful system for administrators to create, manage, and distribute various types of quizzes to users.
 
-##Designed an interactive, user-friendly quiz window with review functionality, enabling users to attempt quizzes and review completed ones with scores.
+- **Group Management:**
+  - Enabled administrators to efficiently establish groups and assign quizzes, ensuring seamless quiz distribution.
 
+- **Interactive Quiz Window:**
+  - Designed a user-friendly interface where users can:
+    - Attempt quizzes in an engaging environment.
+    - Review completed quizzes along with their scores.
+
+---
+
+**inQUIZitive** offers a streamlined and interactive experience for both administrators and users, fostering a dynamic and educational environment.
