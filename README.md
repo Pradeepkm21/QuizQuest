@@ -1,4 +1,4 @@
-# QuizQuest
+# inQuizitive
 
 ### Dynamic Quiz Application
 
